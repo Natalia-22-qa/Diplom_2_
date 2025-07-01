@@ -1,7 +1,6 @@
 import pytest
 import allure
 import requests
-#from data import *
 from urls import Urls
 import data_generation
 
